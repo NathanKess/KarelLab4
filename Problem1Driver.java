@@ -8,7 +8,6 @@ public class Problem1Driver implements Directions
     public static void main(String args[])  {
         Problem1 billy = new Problem1(4,4,West,0);
         billy.escapeRoom();
-        
     } 
 
     static {
